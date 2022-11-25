@@ -14,6 +14,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Drawing,+Coding,+Hacking;Mechanical+Engineer&center=true&width=380&height=45"/><br>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arkadip2007&label=Profile%20views&color=0e75b6&style=flat" alt="arkadip2007" /> </p>
+
 - ⚡ Fun fact **E=mc^2**
 
 
