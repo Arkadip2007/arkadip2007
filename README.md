@@ -58,5 +58,5 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkadip2007&" alt="arkadip2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkadip2007&" alt="arkadip2007" /></p>
 <br>  
