@@ -11,10 +11,12 @@
 
 <div align = 'center'>
  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&fontStyle=samakaran&text=Arkadip%20Mahapatra&height=150&fontSize=80&desc=Haldia,%20IN&descAlignY=75&descAlign=82.4"/></div>
- 
+
+ <!--
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Drawing,+Coding,+Hacking;Mechanical+Engineer&center=true&width=380&height=45"/><br>
-</p>
+</p> -->
+</br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkadip2007&label=Profile%20views&color=0e75b6&style=flat" alt="arkadip2007" /> </p>
 <br>
