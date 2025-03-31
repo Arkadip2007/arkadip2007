@@ -1,6 +1,5 @@
-![WhatsApp Image 2025-04-01 at 02 27 20_619abe07](https://github.com/user-attachments/assets/e5714277-48d2-44b6-b4aa-1c6021e74dbb)
-</br>
-![WhatsApp Image 2025-04-01 at 02 27 20_18565d97](https://github.com/user-attachments/assets/3bbe7888-b948-4919-b8c5-759090350536)
+
+![WhatsApp Image 2025-04-01 at 02 32 02_dee1a40c](https://github.com/user-attachments/assets/0b097277-08ce-4887-9129-5a49d856951f)
 
 <!--
 <p align="center">
@@ -66,9 +65,19 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkadip2007&" alt="arkadip2007" /></p>
-<br>  
+<br> 
+</br>
     
-    
+![WhatsApp Image 2025-04-01 at 02 27 20_619abe07](https://github.com/user-attachments/assets/e5714277-48d2-44b6-b4aa-1c6021e74dbb)
+</br>
+![WhatsApp Image 2025-04-01 at 02 27 20_18565d97](https://github.com/user-attachments/assets/3bbe7888-b948-4919-b8c5-759090350536)
+</br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3911bfb6-9bf8-4574-a77e-874f50760931" alt="Image 1" width="42%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/2c8f1065-b296-4347-9795-594f875409d8" alt="Image 2" width="57%" style="margin-right: 10px;"/>
+</p>
+
+
 ![arkadipmahapatra](https://user-images.githubusercontent.com/118747224/204085040-e3c8ede8-7e18-4b44-a1ae-94b304932013.jpg)
 
     
